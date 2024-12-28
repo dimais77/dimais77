@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Dima
-- 👀 I'm interested in programming and love traveling
-- 🌱 I’m currently learning programming, machine learning, and artificial intelligence
-- 💞️ I’m looking to collaborate on Python development and ML-Engineering projects, and I'm actively seeking opportunities in exciting projects
-- 📫 How to reach me: dimais77@yandex.ru
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I love life
+👋 Hi, I’m Dima
+🔥 I've embarked on a career in Python Development and Machine Learning Engineering
+🧠 Interested in programming, AI, and passionate about traveling
+🌱 Currently deepening my skills in Python development, machine learning, and AI
+🤝 Open for collaboration on Python and ML engineering projects, actively seeking exciting opportunities
+📬 Reach out to me at: dimais77@yandex.ru
+😄 Pronouns: he/his
+⚡ Fun fact: I love life  
 
-Feel free to explore my repositories and get in touch!
+Feel free to check out my repositories and connect with me!
